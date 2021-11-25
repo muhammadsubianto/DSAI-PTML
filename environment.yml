@@ -1,0 +1,13 @@
+name: venv_dsai
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn 
+  - scipy
+  - seaborn
